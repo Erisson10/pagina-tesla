@@ -12,4 +12,5 @@
   <li>CSS: Estilização da página, incluindo cores, tipografia, espaçamentos e disposição dos elementos.</li>
 </ul>
 <h2>Imagem do Projeto</h2>
+<img src="https://github.com/Erisson10/pagina-tesla/blob/main/Readme.png?raw=true"/>
 
